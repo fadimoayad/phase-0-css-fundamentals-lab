@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+nav,h1{
+  text-align: center;
+}
+nav a{
+  text-align: center;
+  background-color:gainsboro;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#featured-property{
+  text-align: center;
+
+}
+#featured-property p{
+  padding: 5px;
+  width: 800px;
+  margin: auto;
+  font-size: 14px;
+}
+
+#details div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
